@@ -2,9 +2,10 @@
 [![.NET](https://github.com/oliverw/miningcore/actions/workflows/dotnet.yml/badge.svg)](https://github.com/oliverw/miningcore/actions/workflows/dotnet.yml)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-<img src="https://github.com/oliverw/miningcore/raw/master/logo.png" width="150">
-
 ## For Setup Support Contact Telegram https://t.me/LinuxGun
+
+
+<img src="https://github.com/oliverw/miningcore/raw/master/logo.png" width="150">
 
 ### Features
 
