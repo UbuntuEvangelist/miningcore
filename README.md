@@ -4,6 +4,8 @@
 
 <img src="https://github.com/oliverw/miningcore/raw/master/logo.png" width="150">
 
+## For Setup Support Contact Telegram https://t.me/LinuxGun
+
 ### Features
 
 - Supports clusters of pools each running individual currencies
